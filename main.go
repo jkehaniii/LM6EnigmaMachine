@@ -21,7 +21,7 @@ func main() {
 		[]string{"AB", "CD", "EF"},
 	)
 	// Encoding function is used
-	plaintext := "LMSIX"
+	plaintext := "LMSEVEN"
 
 	ciphertext := encode.EncodeString(plaintext)
 
